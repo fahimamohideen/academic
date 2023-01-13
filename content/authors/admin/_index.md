@@ -1,43 +1,47 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: 
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Fahima
+last_name: Mohideen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Social Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Well-being Lab, Rutgers University - Newark
+    url: https://samanthaheintzelman.com/lab-members/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Meaning in Life
+  - Happiness & Well-being
+  - Collective Action
+  - Injustice & Inequality
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Social Psychology
+      institution: Rutgers University - Newark
+      year: ongoing
+    - course: MA in Psychology
+      institution: Rutgers University - Newark
+      year: 2022
+    - course: MS in Applied Psychology (Clinical concentration)
+      institution: Pondicherry University
+      year: 2017
+    - course: BS in Psychology
+      institution: University of Madras
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -49,19 +53,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/hitchtheory
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=rnGhkmQAAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/fahima-mohideen/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -77,8 +78,9 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a fourth year PhD Candidate in the Social Psychology graduate program at Rutgers University - Newark. My research interests lie at the intersection of social and positive psychology – I study meaning in life, well-being, and positive outcomes in individual and societal contexts. In some of my recent projects I investigate the sources of momentary meaning in daily life, and the role of feelings of meaning in collective action against societal injustice. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+An integral part of my approach involves studying people's feelings and behavior as they occur in real life using experience sampling and daily diary methods, alongside surveys and experimental designs. My long-term goal is the utilize my research and analytical skills to understand and address the psychological and behavioral underpinnings of real-world issues for societal benefit.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Outside the lab, I enjoy reading (I used to be a book blogger and typically read 100+ books every year!), doing artsy stuff like painting and lettering, and watching satire.
+
