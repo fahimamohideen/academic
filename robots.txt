@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://delicate-moxie-560325.netlify.app/sitemap.xml
