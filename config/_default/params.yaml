@@ -8,8 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
-  font_size: L
+  font: rose
+  font_size: M
 
 # SEO
 
@@ -33,7 +33,7 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: true
+    show_logo: trues
     show_language: false
     show_day_night: true
     show_search: true

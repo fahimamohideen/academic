@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 
+title: Fahima Mohideen
 
 # Full name (for SEO)
 first_name: Fahima
@@ -56,7 +56,7 @@ social:
     link: https://twitter.com/hitchtheory
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=rnGhkmQAAAAJ&hl=en&oi=ao
@@ -82,5 +82,5 @@ I am a fourth year PhD Candidate in the Social Psychology graduate program at Ru
 
 An integral part of my approach involves studying people's feelings and behavior as they occur in real life using experience sampling and daily diary methods, alongside surveys and experimental designs. My long-term goal is the utilize my research and analytical skills to understand and address the psychological and behavioral underpinnings of real-world issues for societal benefit.
 
-Outside the lab, I enjoy reading (I used to be a book blogger and typically read 100+ books every year!), doing artsy stuff like painting and lettering, and watching satire.
+Outside the lab, I enjoy reading, doing artsy things, and watching satire.
 
